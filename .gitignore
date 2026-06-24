@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+results/clean_hi.json
+results/code_reading.json

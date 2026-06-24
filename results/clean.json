@@ -1,0 +1,206 @@
+{
+  "Qwen2.5-1.5B": {
+    "retrieval": {
+      "real": 0.6796875,
+      "shuffled": 0.265625,
+      "chance": 0.25
+    },
+    "comp_none": {
+      "real": 0.3046875,
+      "shuffled": 0.2421875,
+      "chance": 0.25
+    },
+    "comp_overlap": {
+      "real": 0.3515625,
+      "shuffled": 0.21875,
+      "chance": 0.25
+    }
+  },
+  "Qwen2.5-0.5B": {
+    "retrieval": {
+      "real": 0.2421875,
+      "shuffled": 0.2578125,
+      "chance": 0.25
+    },
+    "comp_none": {
+      "real": 0.265625,
+      "shuffled": 0.25,
+      "chance": 0.25
+    },
+    "comp_overlap": {
+      "real": 0.2890625,
+      "shuffled": 0.3046875,
+      "chance": 0.25
+    }
+  },
+  "SmolLM2-1.7B": {
+    "retrieval": {
+      "real": 0.5234375,
+      "shuffled": 0.2109375,
+      "chance": 0.25
+    },
+    "comp_none": {
+      "real": 0.2578125,
+      "shuffled": 0.2109375,
+      "chance": 0.25
+    },
+    "comp_overlap": {
+      "real": 0.296875,
+      "shuffled": 0.234375,
+      "chance": 0.25
+    }
+  },
+  "SmolLM2-360M": {
+    "retrieval": {
+      "real": 0.2109375,
+      "shuffled": 0.2109375,
+      "chance": 0.25
+    },
+    "comp_none": {
+      "real": 0.2890625,
+      "shuffled": 0.2578125,
+      "chance": 0.25
+    },
+    "comp_overlap": {
+      "real": 0.2890625,
+      "shuffled": 0.2578125,
+      "chance": 0.25
+    }
+  },
+  "Phi-3.5-mini": {
+    "retrieval": {
+      "real": 0.984375,
+      "shuffled": 0.328125,
+      "chance": 0.25
+    },
+    "comp_none": {
+      "real": 0.7578125,
+      "shuffled": 0.2734375,
+      "chance": 0.25
+    },
+    "comp_overlap": {
+      "real": 0.71875,
+      "shuffled": 0.25,
+      "chance": 0.25
+    }
+  },
+  "Falcon3-1B": {
+    "retrieval": {
+      "real": 0.3046875,
+      "shuffled": 0.2109375,
+      "chance": 0.25
+    },
+    "comp_none": {
+      "real": 0.2578125,
+      "shuffled": 0.2421875,
+      "chance": 0.25
+    },
+    "comp_overlap": {
+      "real": 0.265625,
+      "shuffled": 0.234375,
+      "chance": 0.25
+    }
+  },
+  "OLMo-2-1B": {
+    "retrieval": {
+      "real": 0.25,
+      "shuffled": 0.234375,
+      "chance": 0.25
+    },
+    "comp_none": {
+      "real": 0.2890625,
+      "shuffled": 0.2421875,
+      "chance": 0.25
+    },
+    "comp_overlap": {
+      "real": 0.28125,
+      "shuffled": 0.28125,
+      "chance": 0.25
+    }
+  },
+  "Granite-3.1-2B": {
+    "retrieval": {
+      "real": 0.8203125,
+      "shuffled": 0.265625,
+      "chance": 0.25
+    },
+    "comp_none": {
+      "real": 0.46875,
+      "shuffled": 0.25,
+      "chance": 0.25
+    },
+    "comp_overlap": {
+      "real": 0.4375,
+      "shuffled": 0.25,
+      "chance": 0.25
+    }
+  },
+  "StableLM-2-1.6B": {
+    "retrieval": {
+      "real": 0.3125,
+      "shuffled": 0.1796875,
+      "chance": 0.25
+    },
+    "comp_none": {
+      "real": 0.2265625,
+      "shuffled": 0.234375,
+      "chance": 0.25
+    },
+    "comp_overlap": {
+      "real": 0.2734375,
+      "shuffled": 0.2578125,
+      "chance": 0.25
+    }
+  },
+  "Gemma-2-2B": {
+    "retrieval": {
+      "real": 0.8828125,
+      "shuffled": 0.2109375,
+      "chance": 0.25
+    },
+    "comp_none": {
+      "real": 0.5546875,
+      "shuffled": 0.2109375,
+      "chance": 0.25
+    },
+    "comp_overlap": {
+      "real": 0.484375,
+      "shuffled": 0.2265625,
+      "chance": 0.25
+    }
+  },
+  "Llama-3.2-1B": {
+    "retrieval": {
+      "real": 0.2109375,
+      "shuffled": 0.2421875,
+      "chance": 0.25
+    },
+    "comp_none": {
+      "real": 0.265625,
+      "shuffled": 0.2890625,
+      "chance": 0.25
+    },
+    "comp_overlap": {
+      "real": 0.265625,
+      "shuffled": 0.2890625,
+      "chance": 0.25
+    }
+  },
+  "Llama-3.2-3B": {
+    "retrieval": {
+      "real": 0.6875,
+      "shuffled": 0.328125,
+      "chance": 0.25
+    },
+    "comp_none": {
+      "real": 0.234375,
+      "shuffled": 0.2421875,
+      "chance": 0.25
+    },
+    "comp_overlap": {
+      "real": 0.2421875,
+      "shuffled": 0.234375,
+      "chance": 0.25
+    }
+  }
+}
